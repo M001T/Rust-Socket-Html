@@ -1,4 +1,19 @@
-# Rust-Socket-Html ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png |width=100)
-
-
+# Rust-Socket-Html 
 Simples hospedagem de arquivos HTML com Socket como Node, Porem feito em Rust
+
+# Como Usar:
+
+1 - Build
+```cargo build```
+
+2- Run
+```cargo run```
+
+Retorno Esperado:
+
+![outpot](https://github.com/M001T/Rust-Socket-Html/blob/master/assets/output.png)
+
+
+Made By: Eric Montelares
+
+
