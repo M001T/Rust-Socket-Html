@@ -1,4 +1,4 @@
-# Rust-Socket-Html 
+# 🎄 Rust-Socket-Html 
 Simples hospedagem de arquivos HTML com Socket como Node, Porem feito em Rust
 
 # Como Usar:
